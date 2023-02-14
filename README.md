@@ -1,4 +1,4 @@
-# Session Demo
+# Session
 <!-- can have readme preview open as well to see how it will appear -->
 <!-- - this is a bullet -->
 
